@@ -1,0 +1,1280 @@
+﻿Log file open, 09/28/19 18:42:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Plague
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.512181
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.29-01.42.04:667][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.29-01.42.04:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:668][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:672][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-01.42.04:672][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-01.42.04:673][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-01.42.04:673][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-01.42.04:673][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.29-01.42.04:681][  0]LogHAL: Display: Platform has ~ 32 GB [34276483072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.29-01.42.04:681][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.29-01.42.04:681][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.29-01.42.04:681][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:681][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [F:/Epic Games/Plague/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.29-01.42.04:682][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Epic Games/Plague/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.42.04:682][  0]LogInit: Computer: DESKTOP-EUDSBMO
+[2019.09.29-01.42.04:682][  0]LogInit: User: joshc
+[2019.09.29-01.42.04:682][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.09.29-01.42.04:682][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.29-01.42.04:683][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.29-01.42.04:683][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.29-01.42.04:683][  0]LogMemory: Process Physical Memory: 100.19 MB used, 100.19 MB peak
+[2019.09.29-01.42.04:683][  0]LogMemory: Process Virtual Memory: 99.72 MB used, 99.72 MB peak
+[2019.09.29-01.42.04:683][  0]LogMemory: Physical Memory: 9531.15 MB used,  23157.45 MB free, 32688.60 MB total
+[2019.09.29-01.42.04:683][  0]LogMemory: Virtual Memory: 4686.07 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.09.29-01.42.04:697][  0]LogInit: Using OS detected language (en-US).
+[2019.09.29-01.42.04:697][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.29-01.42.04:698][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.29-01.42.04:800][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.29-01.42.04:822][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.29-01.42.04:822][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.29-01.42.04:986][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.29-01.42.04:986][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.29-01.42.05:025][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.09.29-01.42.05:025][  0]LogD3D11RHI:       8079/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.29-01.42.05:026][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.29-01.42.05:026][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.29-01.42.05:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.29-01.42.05:031][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.29-01.42.05:031][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.29-01.42.05:031][  0]LogWindows: EnumDisplayDevices:
+[2019.09.29-01.42.05:031][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.09.29-01.42.05:031][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.09.29-01.42.05:031][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.09.29-01.42.05:032][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.09.29-01.42.05:032][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.29-01.42.05:032][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.09.29-01.42.05:032][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.09.29-01.42.05:032][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.09.29-01.42.05:032][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.09.29-01.42.05:058][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.29-01.42.05:060][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-01.42.05:061][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-01.42.05:061][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-01.42.05:068][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.29-01.42.05:346][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.29-01.42.05:355][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.29-01.42.05:363][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.29-01.42.05:373][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.29-01.42.05:381][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.29-01.42.05:390][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.29-01.42.05:399][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.29-01.42.05:408][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.29-01.42.05:412][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.29-01.42.05:464][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.29-01.42.05:465][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.29-01.42.05:466][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.29-01.42.05:506][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.29-01.42.05:506][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.29-01.42.05:523][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.29-01.42.05:523][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.29-01.42.05:531][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.29-01.42.05:540][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.29-01.42.05:548][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.29-01.42.05:557][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.29-01.42.05:588][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.29-01.42.05:588][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.29-01.42.05:588][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.29-01.42.05:592][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.29-01.42.05:617][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (../../../../Plague/Intermediate/Shaders/WorkingDirectory/5920/).
+[2019.09.29-01.42.05:617][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joshc/AppData/Local/Temp/UnrealShaderWorkingDir/DAF1FD204B7E1B6016C727987B872FD7/'.
+[2019.09.29-01.42.05:618][  0]LogXGEController: Cleaning working directory: C:/Users/joshc/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.29-01.42.05:618][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.29-01.42.05:618][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.29-01.42.05:618][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.29-01.42.06:018][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.29-01.42.06:051][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB C:/Users/joshc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-01.42.06:051][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joshc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.29-01.42.06:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Plague/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.29-01.42.06:051][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.29-01.42.06:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Plague/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-01.42.06:051][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.29-01.42.06:060][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.29-01.42.06:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-01.42.06:060][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.29-01.42.06:071][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joshc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.29-01.42.06:071][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.29-01.42.06:071][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.29-01.42.06:086][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.29-01.42.06:087][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.29-01.42.06:087][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.29-01.42.06:158][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2019.09.29-01.42.06:371][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-01.42.06:463][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.29-01.42.06:463][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.29-01.42.06:463][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.29-01.42.06:463][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.29-01.42.06:463][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.29-01.42.06:474][  0]LogNetVersion: Plague 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 847981769)
+[2019.09.29-01.42.06:739][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.022594 seconds
+[2019.09.29-01.42.06:744][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.29-01.42.06:744][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.29-01.42.06:744][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.29-01.42.07:351][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.29-01.42.07:364][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.29-01.42.07:455][  0]SourceControl: Source control is disabled
+[2019.09.29-01.42.07:686][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.29-01.42.07:687][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.29-01.42.07:724][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.29-01.42.07:782][  0]LogOcInput: OculusInput pre-init called
+[2019.09.29-01.42.08:333][  0]LogEngine: Initializing Engine...
+[2019.09.29-01.42.08:333][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.29-01.42.08:334][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.29-01.42.08:473][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.29-01.42.08:480][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-01.42.08:503][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-01.42.08:529][  0]LogInit: FAudioDevice initialized.
+[2019.09.29-01.42.08:530][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.29-01.42.08:569][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/joshc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-01.42.08:578][  0]LogInit: Texture streaming: Enabled
+[2019.09.29-01.42.08:587][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.29-01.42.08:598][  0]LogInit: Transaction tracking system initialized
+[2019.09.29-01.42.08:610][  0]BlueprintLog: New page: Editor Load
+[2019.09.29-01.42.08:650][  0]LocalizationService: Localization service is disabled
+[2019.09.29-01.42.08:730][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.29-01.42.08:730][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.29-01.42.08:843][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Plague/Content/' took 0.02s
+[2019.09.29-01.42.08:843][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.29-01.42.08:843][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.29-01.42.08:955][  0]Cmd: MAP LOAD FILE="../../../../Plague/Content/RTS/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.29-01.42.08:955][  0]LightingResults: New page: Lighting Build
+[2019.09.29-01.42.08:956][  0]MapCheck: New page: Map Check
+[2019.09.29-01.42.08:956][  0]LightingResults: New page: Lighting Build
+[2019.09.29-01.42.08:982][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.09.29-01.42.09:623][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-01.42.09:638][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-01.42.09:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.29-01.42.09:673][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-01.42.09:673][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2019.09.29-01.42.09:673][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.719
+[2019.09.29-01.42.09:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.42.09:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.42.09:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.42.09:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.42.09:872][  0]LogCollectionManager: Loaded 0 collections in 0.000750 seconds
+[2019.09.29-01.42.09:909][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Plague/Saved/Collections/' took 0.01s
+[2019.09.29-01.42.09:909][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Plague/Content/Developers/joshc/Collections/' took 0.01s
+[2019.09.29-01.42.09:909][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Plague/Content/Collections/' took 0.01s
+[2019.09.29-01.42.09:909][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.29-01.42.09:917][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2733 classes and 661 folders.
+[2019.09.29-01.42.09:924][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-01.42.09:927][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-01.42.09:932][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.29-01.42.09:933][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.29-01.42.09:936][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.29-01.42.09:980][  0]LogRenderer: Reallocating scene render targets to support 1792x1244 Format 10 NumSamples 1 (Frame:1).
+[2019.09.29-01.42.10:111][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-01.42.10:111][  0]LogLoad: (Engine Initialization) Total time: 7.14 seconds
+[2019.09.29-01.42.10:111][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.29-01.42.10:145][  0]LogAssetRegistry: Asset discovery search completed in 4.0088 seconds
+[2019.09.29-01.42.10:146][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.29-01.42.10:146][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2019.09.29-01.42.10:151][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2019.09.29-01.42.10:204][  1]LogRenderer: Reallocating scene render targets to support 1792x1260 Format 10 NumSamples 1 (Frame:3).
+[2019.09.29-01.42.11:482][  4]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-01.42.12:466][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-01.42.16:521][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.42.42:026][381]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/Commerical/ConstructionOffic_BP.ConstructionOffic_BP
+[2019.09.29-01.42.42:190][381]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.09.29-01.42.44:412][577]LogSlate: Window 'ConstructionOffic_BP' being destroyed
+[2019.09.29-01.42.48:529][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.43.18:698][982]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/RTS/Structs/Construction_Struct.Construction_Struct
+[2019.09.29-01.44.25:656][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-01.44.25:661][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.44.25:672][687]LogSavePackage: Moving '../../../../Plague/Saved/Construction_StructEAAE4BB8462469E60372ACAE3CE7373B.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.44.25:777][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.44.25:913][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-01.44.25:915][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.44.25:924][709]LogSavePackage: Moving '../../../../Plague/Saved/Construction_Struct674EAB42462D4A2370D0A3A239D0A270.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.44.26:497][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.44.38:333][194]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding.RTS_PreviewBuilding
+[2019.09.29-01.44.38:556][194]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.29-01.44.38:611][195]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.29-01.45.16:463][178]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.29-01.46.05:767][306]BlueprintLog: New page: Compile RTS_PreviewBuilding
+[2019.09.29-01.46.05:911][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.09.29-01.46.06:420][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset" SILENT=true
+[2019.09.29-01.46.06:463][357]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuildingC06E85BF4C748E1B524483A4D5E664A2.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset'
+[2019.09.29-01.46.39:147][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.46.39:155][972]LogSavePackage: Moving '../../../../Plague/Saved/Construction_Struct9DB75BBB4B612053792D7180F7C628F4.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.46.40:937][183]BlueprintLog: New page: Compile RTS_PreviewBuilding
+[2019.09.29-01.46.41:069][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.29-01.46.41:452][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset" SILENT=true
+[2019.09.29-01.46.41:490][221]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuildingE4CD0043460F1D7FA2E0358AFE1AC385.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset'
+[2019.09.29-01.47.30:153][ 20]BlueprintLog: New page: Compile RTS_PreviewBuilding
+[2019.09.29-01.47.30:285][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.29-01.47.30:824][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset" SILENT=true
+[2019.09.29-01.47.30:864][ 77]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuildingC953AEDA4138AF649DBC3F8F4BE9FEF0.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset'
+[2019.09.29-01.48.05:574][209]BlueprintLog: New page: Compile RTS_PreviewBuilding
+[2019.09.29-01.48.05:753][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.09.29-01.48.06:170][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset" SILENT=true
+[2019.09.29-01.48.06:213][245]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuildingBF27C821429719C00B4265938738A255.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset'
+[2019.09.29-01.48.10:231][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset" SILENT=true
+[2019.09.29-01.48.10:273][717]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuilding47DFFA6447821A0C2C38F79ED9E392B6.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset'
+[2019.09.29-01.48.12:310][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.48.12:319][948]LogSavePackage: Moving '../../../../Plague/Saved/Construction_StructD0DA18664FDCC66EDC14E6A54D3BD4A1.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.48.18:496][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.48.18:504][681]LogSavePackage: Moving '../../../../Plague/Saved/Construction_Struct05F8D60E429A4946E7E56FB1B9F158D8.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.48.34:017][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/CameraPawnController.CameraPawnController
+[2019.09.29-01.50.10:728][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.50.10:740][269]LogSavePackage: Moving '../../../../Plague/Saved/Construction_StructC06EAB1F407FEC03518AEE82F90EE436.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.50.13:407][587]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.29-01.50.18:461][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Structs/Construction_Struct" FILE="../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset" SILENT=true
+[2019.09.29-01.50.18:469][181]LogSavePackage: Moving '../../../../Plague/Saved/Construction_Struct2047AB4844346E99441FA0BDB32C91D5.tmp' to '../../../../Plague/Content/RTS/Structs/Construction_Struct.uasset'
+[2019.09.29-01.50.20:937][465]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-01.50.21:111][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.29-01.50.21:451][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-01.50.21:556][487]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController828D5A68493D8E362D85E0B3B83B5422.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-01.50.31:734][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.RTS_BuildingMaster_BP
+[2019.09.29-01.52.07:490][620]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-01.52.07:665][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.09.29-01.52.07:917][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-01.52.08:020][631]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController5692487D4B11C8DB03B4F48F1D8DD019.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-01.52.21:229][997]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-01.52.21:402][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.09.29-01.52.21:587][  6]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-01.52.21:759][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.09.29-01.52.21:997][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-01.52.22:101][ 16]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnControllerB84CF56A43B356233839AF917E114167.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-01.52.24:368][285]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-01.52.24:389][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.52.24:389][285]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.29-01.52.24:406][285]LogPlayLevel: [PlayLevel] Compiling RTS_PreviewBuilding before play...
+[2019.09.29-01.52.24:415][285]LogPlayLevel: [PlayLevel]   Compiling CameraPawnController as a dependent...
+[2019.09.29-01.52.24:558][285]LogPlayLevel: [PlayLevel] Compiling GhostBuilding_BP before play...
+[2019.09.29-01.52.24:564][285]LogBlueprint: Error: [Compiler GhostBuilding_BP] In use pin  Proxy Class  no longer exists on node  Make Construction_Struct . Please refresh node or break links to remove pin.
+[2019.09.29-01.52.24:578][285]LogBlueprint: Warning: [Compiler GhostBuilding_BP] [0621.61] Compile of GhostBuilding_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 20 ms] (/Game/RTS/Blueprints/Buildings/GhostBuilding_BP.GhostBuilding_BP)
+[2019.09.29-01.52.24:582][285]LogPlayLevel: [PlayLevel] Compiling ConstructionManager_BP before play...
+[2019.09.29-01.52.24:582][285]LogPlayLevel: [PlayLevel]   Compiling T_Assign_Work_Construction as a dependent...
+[2019.09.29-01.52.24:583][285]LogBlueprint: Error: [Compiler ConstructionManager_BP] In use pin  Proxy Class  no longer exists on node  Break Construction_Struct . Please refresh node or break links to remove pin.
+[2019.09.29-01.52.24:584][285]LogBlueprint: Error: [Compiler ConstructionManager_BP] In use pin  Building Class  no longer exists on node  Break Construction_Struct . Please refresh node or break links to remove pin.
+[2019.09.29-01.52.24:587][285]LogBlueprint: Warning: [Compiler ConstructionManager_BP] [0621.62] Compile of ConstructionManager_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 7 ms] (/Game/RTS/Blueprints/Construction/ConstructionManager_BP.ConstructionManager_BP)
+[2019.09.29-01.52.24:724][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.09.29-01.52.24:724][285]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (5 blueprints)
+[2019.09.29-01.52.24:724][285]BlueprintLog: Blueprint GhostBuilding_BP failed to compile
+[2019.09.29-01.52.24:724][285]BlueprintLog: Blueprint ConstructionManager_BP failed to compile
+[2019.09.29-01.52.27:073][285]LogSlate: Window 'Message' being destroyed
+[2019.09.29-01.52.27:077][285]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 11:52:27 AM)
+[2019.09.29-01.52.27:089][285]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-01.52.27:108][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018693s)
+[2019.09.29-01.52.27:108][285]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-01.52.27:108][285]LogPlayLevel: PIE: World Init took: (0.000389s)
+[2019.09.29-01.52.27:108][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019245s)
+[2019.09.29-01.52.27:135][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.09.29-01.52.27:149][285]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-01.52.27:172][285]LogInit: FAudioDevice initialized.
+[2019.09.29-01.52.27:207][285]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-01.52.27:209][285]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-18.52.27
+[2019.09.29-01.52.27:209][285]LogWorld: Bringing up level for play took: 0.001601
+[2019.09.29-01.52.27:230][285]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.09.29-01.52.27:233][285]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.09.29-01.52.27:233][285]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.09.29-01.52.27:236][285]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 2.853
+[2019.09.29-01.52.27:236][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.52.28:519][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.52.32:519][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.52.34:919][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.52.46:297][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.52.46:297][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.52.46:328][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-01.52.46:328][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.52.46:365][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.52.46:383][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.09.29-01.52.46:412][548]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.29-01.52.47:588][687]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.09.29-01.52.53:314][328]Cmd: TRANSACTION UNDO
+[2019.09.29-01.52.53:314][328]LogEditorTransaction: Undo Scale Actors
+[2019.09.29-01.52.53:681][370]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.09.29-01.53.00:778][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.00:887][219]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-01.53.00:902][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.53.00:902][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-01.53.00:902][219]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 11:53:00 AM)
+[2019.09.29-01.53.00:903][219]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-01.53.00:922][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018926s)
+[2019.09.29-01.53.00:922][219]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-01.53.00:923][219]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2019.09.29-01.53.00:923][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019650s)
+[2019.09.29-01.53.00:958][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.29-01.53.00:973][219]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-01.53.00:995][219]LogInit: FAudioDevice initialized.
+[2019.09.29-01.53.01:023][219]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-01.53.01:026][219]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-18.53.01
+[2019.09.29-01.53.01:026][219]LogWorld: Bringing up level for play took: 0.001485
+[2019.09.29-01.53.01:045][219]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.661
+[2019.09.29-01.53.01:045][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.53.06:039][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.07:647][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.12:822][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.23:851][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.53.23:851][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.53.23:881][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-01.53.23:881][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.53.23:916][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.53.23:919][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.09.29-01.53.23:964][955]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.29-01.53.27:277][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-01.53.40:326][540]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-01.53.40:517][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.09.29-01.53.40:873][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-01.53.40:876][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-01.53.40:978][564]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnControllerA33D4D3E40FB252ECD8AECA4B31155B0.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-01.53.41:876][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.42:550][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.42:642][762]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-01.53.42:659][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.53.42:659][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-01.53.42:659][762]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 11:53:42 AM)
+[2019.09.29-01.53.42:659][762]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-01.53.42:678][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019198s)
+[2019.09.29-01.53.42:678][762]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-01.53.42:678][762]LogPlayLevel: PIE: World Init took: (0.000349s)
+[2019.09.29-01.53.42:678][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019628s)
+[2019.09.29-01.53.42:716][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.09.29-01.53.42:729][762]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-01.53.42:751][762]LogInit: FAudioDevice initialized.
+[2019.09.29-01.53.42:779][762]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-01.53.42:781][762]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-18.53.42
+[2019.09.29-01.53.42:781][762]LogWorld: Bringing up level for play took: 0.001450
+[2019.09.29-01.53.42:800][762]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.417
+[2019.09.29-01.53.42:800][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.53.43:863][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.53.57:399][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.01:933][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.08:717][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.22:247][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.54.22:247][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.54.22:279][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-01.54.22:279][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-01.54.22:315][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.54.22:319][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.09.29-01.54.22:352][492]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.29-01.54.47:580][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.29-01.54.47:597][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap" FILE="../../../../Plague/Saved/Autosaves/Game/RTS/Maps/TopDownExampleMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.29-01.54.47:837][677]LogSavePackage: Moving '../../../../Plague/Saved/TopDownExampleMap_Auto159962D0C4347BBAA2FFE1D935959BA07.tmp' to '../../../../Plague/Saved/Autosaves/Game/RTS/Maps/TopDownExampleMap_Auto1.umap'
+[2019.09.29-01.54.47:838][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RTS/Maps/TopDownExampleMap' took 0.284
+[2019.09.29-01.54.47:838][677]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2019.09.29-01.54.47:841][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTS/Blueprints/Construction/ConstructionManager_BP] ([1] browsable assets)...
+[2019.09.29-01.54.47:841][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTS/Blueprints/Construction/ConstructionManager_BP]
+[2019.09.29-01.54.47:868][677]LogSavePackage: Moving '../../../../Plague/Saved/ConstructionManager_BP_Auto1C7E768E545F8F636960BFABCEC86780A.tmp' to '../../../../Plague/Saved/Autosaves/Game/RTS/Blueprints/Construction/ConstructionManager_BP_Auto1.uasset'
+[2019.09.29-01.54.47:868][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding] ([1] browsable assets)...
+[2019.09.29-01.54.47:868][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding]
+[2019.09.29-01.54.47:914][677]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuilding_Auto1AEFFC5594B97F9F8E61923B3D024F492.tmp' to '../../../../Plague/Saved/Autosaves/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding_Auto1.uasset'
+[2019.09.29-01.54.47:915][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTS/Blueprints/Buildings/GhostBuilding_BP] ([1] browsable assets)...
+[2019.09.29-01.54.47:915][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTS/Blueprints/Buildings/GhostBuilding_BP]
+[2019.09.29-01.54.48:012][677]LogSavePackage: Moving '../../../../Plague/Saved/GhostBuilding_BP_Auto16B286EE846A9CD72DB8FDDB7F08388EA.tmp' to '../../../../Plague/Saved/Autosaves/Game/RTS/Blueprints/Buildings/GhostBuilding_BP_Auto1.uasset'
+[2019.09.29-01.54.48:012][677]LogFileHelpers: Auto-saving content packages took 0.173
+[2019.09.29-01.54.49:061][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.55:603][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.09.29-01.54.57:304][423]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-01.54.57:398][423]LogSlate: Window 'RTS_BuildingMaster_BP' being destroyed
+[2019.09.29-01.54.57:402][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.29-01.54.57:459][423]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/RTS/Blueprints/Buildings/GhostBuilding_BP.GhostBuilding_BP
+[2019.09.29-01.54.58:327][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.29-01.54.58:367][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.09.29-01.54.58:392][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.29-01.54.58:574][423]SourceControl: Error: Updated 1 path from the index
+[2019.09.29-01.54.58:657][423]SourceControl: rm 'Content/RTS/Blueprints/Buildings/GhostBuilding_BP.uasset'
+[2019.09.29-01.55.03:014][773]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.29-01.55.16:006][314]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.RTS_Construction_Master_BP
+[2019.09.29-01.55.21:639][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.55.38:163][333]BlueprintLog: New page: Compile RTS_Construction_Master_BP
+[2019.09.29-01.55.38:277][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.09.29-01.56.16:414][879]LogEditorTransaction: Undo Move Node
+[2019.09.29-01.57.43:378][708]BlueprintLog: New page: Compile RTS_Construction_Master_BP
+[2019.09.29-01.57.43:494][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.09.29-01.57.44:000][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_Construction_Master_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset" SILENT=true
+[2019.09.29-01.57.44:011][759]LogSavePackage: Moving '../../../../Plague/Saved/RTS_Construction_Master_BP0C2632E047FA102D214B35A2295512AB.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset'
+[2019.09.29-01.57.53:873][729]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/CameraPawnController.CameraPawnController
+[2019.09.29-01.57.54:222][730]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.29-01.57.54:825][730]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.603 s
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: 
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1272]
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: Property (ObjectProperty /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:GhostBuildingRef) is not an object or interface class
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: Stack: 
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc23a438bc UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc238e15fd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc237e11c4 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc237dee2f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc236ed78a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc236da7ac UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc236da66f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc237d73fa UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc236c621e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2394415c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc239147b3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc239257cf UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc239266fd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2395961a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc61151056 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2396db2e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27033e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27032571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc611049c9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc6110479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc6110479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27032571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc61109354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27032571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc6110479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27032571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc61109354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27032571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27034bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27032571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc27031c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:825][730]LogOutputDevice: Error: [Callstack] 0x00007ffc2703419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:826][730]LogOutputDevice: Error: [Callstack] 0x00007ffc270350fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.29-01.57.54:826][730]LogOutputDevice: Error: [Callstack] 0x00007ffc60efd714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:826][730]LogOutputDevice: Error: [Callstack] 0x00007ffc60efe211 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:826][730]LogOutputDevice: Error: [Callstack] 0x00007ffc60f268d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:826][730]LogOutputDevice: Error: [Callstack] 0x00007ffc60efe2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-01.57.54:826][730]LogOutputDevice: Error: 
+[2019.09.29-01.57.54:833][730]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.29-01.57.55:258][730]LogStats:                    SendNewReport -  0.426 s
+[2019.09.29-01.57.55:258][730]LogStats:             FDebug::EnsureFailed -  1.037 s
+[2019.09.29-01.58.41:900][ 11]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.29-02.00.25:424][434]BlueprintLog: New page: Compile RTS_Construction_Master_BP
+[2019.09.29-02.00.25:550][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.09.29-02.00.25:981][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_Construction_Master_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset" SILENT=true
+[2019.09.29-02.00.25:997][478]LogSavePackage: Moving '../../../../Plague/Saved/RTS_Construction_Master_BP59B5CC454912E376B3E453893B709C88.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset'
+[2019.09.29-02.00.32:691][260]BlueprintLog: New page: Compile RTS_Construction_Master_BP
+[2019.09.29-02.00.32:820][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.09.29-02.00.36:508][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_Construction_Master_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset" SILENT=true
+[2019.09.29-02.00.36:521][693]LogSavePackage: Moving '../../../../Plague/Saved/RTS_Construction_Master_BPF39EE8C64D10BB2E428CDEA21B1B439B.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset'
+[2019.09.29-02.01.19:017][561]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-02.01.19:049][561]LogBlueprint: Error: [Compiler CameraPawnController] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.09.29-02.01.19:049][561]LogBlueprint: Error: [Compiler CameraPawnController] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.09.29-02.01.19:186][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.29-02.01.19:218][561]LogBlueprint: Warning: [Compiler CameraPawnController] [1156.25] Compile of CameraPawnController failed. 2 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/RTS/Blueprints/CameraPawnController.CameraPawnController)
+[2019.09.29-02.01.28:939][673]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-02.01.29:108][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.09.29-02.01.29:652][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-02.01.29:760][718]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController3FF0BF094F5FD4948D3092A73A76CB20.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-02.02.35:194][127]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding.RTS_PreviewBuilding
+[2019.09.29-02.03.44:396][627]BlueprintLog: New page: Compile RTS_PreviewBuilding
+[2019.09.29-02.03.44:556][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.29-02.03.44:992][662]BlueprintLog: New page: Compile RTS_PreviewBuilding
+[2019.09.29-02.03.45:130][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.09.29-02.03.45:519][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_PreviewBuilding" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset" SILENT=true
+[2019.09.29-02.03.45:564][699]LogSavePackage: Moving '../../../../Plague/Saved/RTS_PreviewBuilding258858BB4A781BE1E3D95388AE795C35.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_PreviewBuilding.uasset'
+[2019.09.29-02.03.56:260][811]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-02.03.56:433][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.09.29-02.03.56:992][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-02.03.57:095][857]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController61F9383F43854C680525AE860488164F.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-02.04.30:454][737]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-02.04.30:476][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.04.30:476][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-02.04.30:476][737]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 12:04:30 PM)
+[2019.09.29-02.04.30:476][737]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-02.04.30:496][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019128s)
+[2019.09.29-02.04.30:496][737]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-02.04.30:496][737]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2019.09.29-02.04.30:496][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019607s)
+[2019.09.29-02.04.30:529][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.09.29-02.04.30:543][737]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-02.04.30:565][737]LogInit: FAudioDevice initialized.
+[2019.09.29-02.04.30:592][737]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-02.04.30:594][737]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-19.04.30
+[2019.09.29-02.04.30:594][737]LogWorld: Bringing up level for play took: 0.001481
+[2019.09.29-02.04.30:614][737]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.231
+[2019.09.29-02.04.30:614][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.04.34:853][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.04.36:236][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.04.41:128][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.04.41:128][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.04.41:155][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-02.04.41:155][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.04.41:191][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.04.41:195][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.09.29-02.04.41:240][999]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.29-02.04.45:368][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.05.43:251][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.09.29-02.05.43:251][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RTS/Maps/TopDownExampleMap' took 0.026
+[2019.09.29-02.05.43:252][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTS/Blueprints/CameraPawnController] ([1] browsable assets)...
+[2019.09.29-02.05.43:252][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTS/Blueprints/CameraPawnController]
+[2019.09.29-02.05.43:252][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Saved/Autosaves/Game/RTS/Blueprints/CameraPawnController_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.29-02.05.43:372][ 49]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController_Auto2A6B74BB54CFA77B853DD019281EF9B9D.tmp' to '../../../../Plague/Saved/Autosaves/Game/RTS/Blueprints/CameraPawnController_Auto2.uasset'
+[2019.09.29-02.05.43:373][ 49]LogFileHelpers: Auto-saving content packages took 0.121
+[2019.09.29-02.06.40:694][524]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-02.06.40:868][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.09.29-02.06.41:119][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.06.41:123][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-02.06.41:229][535]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController7E50E7834FECD568A2D709A55467F18F.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-02.06.42:036][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.06.43:111][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.06.43:212][771]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-02.06.43:229][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.06.43:229][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-02.06.43:229][771]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 12:06:43 PM)
+[2019.09.29-02.06.43:229][771]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-02.06.43:248][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018674s)
+[2019.09.29-02.06.43:249][771]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-02.06.43:249][771]LogPlayLevel: PIE: World Init took: (0.000389s)
+[2019.09.29-02.06.43:249][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019159s)
+[2019.09.29-02.06.43:285][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.09.29-02.06.43:298][771]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-02.06.43:320][771]LogInit: FAudioDevice initialized.
+[2019.09.29-02.06.43:349][771]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-02.06.43:351][771]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-19.06.43
+[2019.09.29-02.06.43:351][771]LogWorld: Bringing up level for play took: 0.001486
+[2019.09.29-02.06.43:371][771]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.988
+[2019.09.29-02.06.43:371][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.06.45:292][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.06.47:334][245]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.47:334][245]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.47:334][245]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.47:334][245]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.48:142][342]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.48:143][342]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.48:143][342]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.48:143][342]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.48:559][392]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.48:560][392]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.48:560][392]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.48:560][392]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.48:852][427]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.48:852][427]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.48:852][427]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.48:852][427]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.52:118][819]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.52:118][819]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.52:118][819]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.52:118][819]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.52:452][859]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.52:452][859]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.52:452][859]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.52:452][859]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.52:718][891]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.52:718][891]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.52:718][891]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.52:718][891]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.52:960][920]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.52:960][920]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.52:960][920]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:017E
+[2019.09.29-02.06.52:960][920]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.53:143][942]LogScript: Warning: Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill
+	CameraPawnController_C /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.CameraPawnController_C_0
+	Function /Game/RTS/Blueprints/CameraPawnController.CameraPawnController_C:ExecuteUbergraph_CameraPawnController:0795
+[2019.09.29-02.06.53:144][942]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.53:144][942]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.53:318][963]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.53:318][963]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.53:511][986]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.53:511][986]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.54:301][ 81]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.54:302][ 81]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.54:534][109]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.54:535][109]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.54:710][130]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.54:710][130]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.54:868][149]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.54:868][149]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.55:501][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.06.56:218][311]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.56:218][311]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.56:427][336]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.56:427][336]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.56:626][360]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.56:626][360]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.56:835][385]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.56:835][385]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.57:018][407]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.57:018][407]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.57:235][433]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.57:235][433]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.57:451][459]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.57:451][459]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.57:652][483]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.57:652][483]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.58:260][556]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  Start Construction
+[2019.09.29-02.06.58:260][556]PIE: Error: Blueprint Runtime Error: "Attempted to access RTS_Construction_Master_BP_C_0 via property ConstructionMasterRef, but RTS_Construction_Master_BP_C_0 is pending kill". Blueprint:  CameraPawnController Function:  Execute Ubergraph Camera Pawn Controller Graph:  EventGraph Node:  DestroyActor
+[2019.09.29-02.06.58:443][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.06.58:443][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.06.58:474][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-02.06.58:474][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.06.58:510][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.06.58:513][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.09.29-02.06.58:520][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.06.58:568][579]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.09.29-02.08.16:394][871]BlueprintLog: New page: Compile CameraPawnController
+[2019.09.29-02.08.16:566][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.09.29-02.08.17:070][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.08.17:073][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-02.08.17:179][909]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnController7031BD244E5417F3E48CE281BACB7918.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-02.08.18:357][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.19:689][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.19:770][205]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-02.08.19:774][205]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-02.08.20:338][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.20:421][283]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-02.08.20:439][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.08.20:439][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-02.08.20:439][283]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 12:08:20 PM)
+[2019.09.29-02.08.20:440][283]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-02.08.20:458][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018491s)
+[2019.09.29-02.08.20:458][283]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-02.08.20:459][283]LogPlayLevel: PIE: World Init took: (0.000367s)
+[2019.09.29-02.08.20:459][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018947s)
+[2019.09.29-02.08.20:494][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.09.29-02.08.20:509][283]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-02.08.20:531][283]LogInit: FAudioDevice initialized.
+[2019.09.29-02.08.20:557][283]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-02.08.20:558][283]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-19.08.20
+[2019.09.29-02.08.20:559][283]LogWorld: Bringing up level for play took: 0.001477
+[2019.09.29-02.08.20:578][283]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.195
+[2019.09.29-02.08.20:579][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.08.21:658][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.23:892][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.25:092][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.26:167][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.28:443][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.08.47:895][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.08.47:895][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.08.47:925][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-02.08.47:925][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.08.47:963][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.08.47:966][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.09.29-02.08.48:000][557]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.29-02.08.53:050][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.08.55:037][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.08.55:040][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/CameraPawnController" FILE="../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset" SILENT=true
+[2019.09.29-02.08.55:144][315]LogSavePackage: Moving '../../../../Plague/Saved/CameraPawnControllerD745B9804B738CD08E42FC9061CE8E77.tmp' to '../../../../Plague/Content/RTS/Blueprints/CameraPawnController.uasset'
+[2019.09.29-02.08.56:040][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.09.06:852][712]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.RTS_BuildingMaster_BP
+[2019.09.29-02.10.23:443][765]BlueprintLog: New page: Compile RTS_BuildingMaster_BP
+[2019.09.29-02.10.23:607][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.09.29-02.10.23:956][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset" SILENT=true
+[2019.09.29-02.10.23:989][794]LogSavePackage: Moving '../../../../Plague/Saved/RTS_BuildingMaster_BP2991CA7345E2D25E905DD2AFD86408E1.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset'
+[2019.09.29-02.10.26:574][102]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-02.10.26:593][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.10.26:593][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-02.10.26:593][102]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 12:10:26 PM)
+[2019.09.29-02.10.26:594][102]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-02.10.26:612][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018392s)
+[2019.09.29-02.10.26:612][102]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-02.10.26:612][102]LogPlayLevel: PIE: World Init took: (0.000416s)
+[2019.09.29-02.10.26:612][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018894s)
+[2019.09.29-02.10.26:647][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.29-02.10.26:661][102]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-02.10.26:683][102]LogInit: FAudioDevice initialized.
+[2019.09.29-02.10.26:710][102]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-02.10.26:712][102]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-19.10.26
+[2019.09.29-02.10.26:713][102]LogWorld: Bringing up level for play took: 0.001482
+[2019.09.29-02.10.26:732][102]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.349
+[2019.09.29-02.10.26:732][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.10.30:304][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.10.32:537][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.10.37:016][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.10.39:275][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.10.42:308][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.10.42:309][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.10.42:337][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-02.10.42:337][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.10.42:375][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.10.42:378][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.09.29-02.10.42:411][971]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.09.29-02.10.48:365][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.11.22:678][246]BlueprintLog: New page: Compile RTS_BuildingMaster_BP
+[2019.09.29-02.11.22:832][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.09.29-02.11.23:325][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.11.23:329][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset" SILENT=true
+[2019.09.29-02.11.23:344][296]LogSavePackage: Moving '../../../../Plague/Saved/RTS_BuildingMaster_BP725C8D5B4F30C8BAFBA326BBC409E8BD.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset'
+[2019.09.29-02.12.26:157][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.29:856][ 53]BlueprintLog: New page: Compile RTS_BuildingMaster_BP
+[2019.09.29-02.12.30:013][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.09.29-02.12.30:392][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-02.12.30:395][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset" SILENT=true
+[2019.09.29-02.12.30:410][ 90]LogSavePackage: Moving '../../../../Plague/Saved/RTS_BuildingMaster_BP1E5AFA33457B05DC0AFC0ABFC8C7FBA7.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset'
+[2019.09.29-02.12.31:270][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.31:909][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.32:001][280]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-02.12.32:020][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.12.32:020][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-02.12.32:020][280]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 12:12:32 PM)
+[2019.09.29-02.12.32:020][280]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-02.12.32:039][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018504s)
+[2019.09.29-02.12.32:039][280]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-02.12.32:039][280]LogPlayLevel: PIE: World Init took: (0.000365s)
+[2019.09.29-02.12.32:039][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018954s)
+[2019.09.29-02.12.32:073][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.09.29-02.12.32:087][280]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-02.12.32:108][280]LogInit: FAudioDevice initialized.
+[2019.09.29-02.12.32:138][280]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-02.12.32:140][280]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-19.12.32
+[2019.09.29-02.12.32:141][280]LogWorld: Bringing up level for play took: 0.001454
+[2019.09.29-02.12.32:161][280]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap -0.222
+[2019.09.29-02.12.32:161][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.12.34:540][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.36:790][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.38:424][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.39:659][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.41:351][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.42:576][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.43:400][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.45:810][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.12.45:810][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.12.45:837][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-02.12.45:837][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.12.45:873][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.12.45:876][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.09.29-02.12.45:910][918]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.09.29-02.12.46:785][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.12.46:922][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap" FILE="../../../../Plague/Content/RTS/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.29-02.12.46:952][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.29-02.12.47:175][ 32]LogSavePackage: Moving '../../../../Plague/Saved/TopDownExampleMap7972A8BE4CA05CD5C3C176A36729B817.tmp' to '../../../../Plague/Content/RTS/Maps/TopDownExampleMap.umap'
+[2019.09.29-02.12.47:268][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap_BuiltData" FILE="../../../../Plague/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.09.29-02.12.47:406][ 32]LogSavePackage: Moving '../../../../Plague/Saved/TopDownExampleMap_BuiltData62A122F2477FC2DDF1B2299B8B1FE06D.tmp' to '../../../../Plague/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.09.29-02.12.59:760][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset" SILENT=true
+[2019.09.29-02.12.59:774][396]LogSavePackage: Moving '../../../../Plague/Saved/RTS_BuildingMaster_BP3F46AD05469380DE929C17AD686598CB.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset'
+[2019.09.29-02.13.25:857][603]BlueprintLog: New page: Compile RTS_BuildingMaster_BP
+[2019.09.29-02.13.26:011][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.09.29-02.13.26:228][626]BlueprintLog: New page: Compile RTS_BuildingMaster_BP
+[2019.09.29-02.13.26:384][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.09.29-02.13.28:572][884]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-02.13.28:592][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.13.28:592][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-02.13.28:592][884]PIE: New page: PIE session: TopDownExampleMap (Sep 28, 2019, 12:13:28 PM)
+[2019.09.29-02.13.28:592][884]LogPlayLevel: Creating play world package: /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap
+[2019.09.29-02.13.28:611][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018600s)
+[2019.09.29-02.13.28:611][884]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.09.29-02.13.28:611][884]LogPlayLevel: PIE: World Init took: (0.000355s)
+[2019.09.29-02.13.28:611][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap to /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019042s)
+[2019.09.29-02.13.28:644][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.09.29-02.13.28:658][884]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.29-02.13.28:681][884]LogInit: FAudioDevice initialized.
+[2019.09.29-02.13.28:709][884]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.29-02.13.28:711][884]LogWorld: Bringing World /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.09.28-19.13.28
+[2019.09.29-02.13.28:712][884]LogWorld: Bringing up level for play took: 0.001486
+[2019.09.29-02.13.28:730][884]PIE: Play in editor start time for /Game/RTS/Maps/UEDPIE_0_TopDownExampleMap 0.348
+[2019.09.29-02.13.28:731][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.13.31:678][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.33:721][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.36:375][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.37:509][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.38:476][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.39:838][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.41:354][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.42:363][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.43:863][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.45:258][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.13.49:100][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.14.04:356][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.14.04:357][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.14.04:387][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-02.14.04:387][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.09.29-02.14.04:427][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-02.14.04:431][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.09.29-02.14.04:463][154]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.09.29-02.14.07:036][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-02.14.08:236][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap" FILE="../../../../Plague/Content/RTS/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.29-02.14.08:269][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.29-02.14.08:488][404]LogSavePackage: Moving '../../../../Plague/Saved/TopDownExampleMapB4A139034D845FB3862BB7AAADB4C930.tmp' to '../../../../Plague/Content/RTS/Maps/TopDownExampleMap.umap'
+[2019.09.29-02.14.08:576][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap_BuiltData" FILE="../../../../Plague/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.09.29-02.14.08:712][404]LogSavePackage: Moving '../../../../Plague/Saved/TopDownExampleMap_BuiltData78D5F2FD47E245351C86419E1EDEB913.tmp' to '../../../../Plague/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.09.29-02.14.39:171][944]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/ResourceManagement/RTS_SiloBP.RTS_SiloBP
+[2019.09.29-02.14.48:404][ 18]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/ResourceManagement/RTS_SiloBP.RTS_SiloBP
+[2019.09.29-02.15.01:755][509]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/RTS/Meshes/Placeholder/Silo.Silo
+[2019.09.29-02.15.01:791][509]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.09.29-02.15.16:125][ 64]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/Military/RTS_TrainingPost.RTS_TrainingPost
+[2019.09.29-02.15.17:817][228]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/Military/RTS_TrainingPost.RTS_TrainingPost
+[2019.09.29-02.15.23:180][790]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/RTS/Meshes/Placeholder/TrainingPost.TrainingPost
+[2019.09.29-02.15.47:695][606]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/ResourceManagement/RTS_ResourceManagement_BuildingMaster_BP_Child.RTS_ResourceManagement_BuildingMaster_BP_Child
+[2019.09.29-02.15.49:533][792]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/ResourceManagement/RTS_ResourceManagement_BuildingMaster_BP_Child.RTS_ResourceManagement_BuildingMaster_BP_Child
+[2019.09.29-02.16.25:299][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RTS/Blueprints/Buildings/ResourceManagement/RTS_SiloBP.RTS_SiloBP
+[2019.09.29-02.16.43:510][ 54]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/RTS/Meshes/Placeholder/TrainingPost.TrainingPost
+[2019.09.29-02.16.47:444][391]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/RTS/Meshes/Placeholder/Silo.Silo
+[2019.09.29-02.17.15:594][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.29-02.17.16:384][632]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.29-02.17.26:295][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_Construction_Master_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset" SILENT=true
+[2019.09.29-02.17.26:311][792]LogSavePackage: Moving '../../../../Plague/Saved/RTS_Construction_Master_BP4382C843455DDFEB8F90BF8453DD3E9D.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_Construction_Master_BP.uasset'
+[2019.09.29-02.17.46:475][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.29-02.17.47:501][987]LogSlate: Window 'Save Content' being destroyed
+[2019.09.29-02.17.47:598][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset" SILENT=true
+[2019.09.29-02.17.47:631][987]LogSavePackage: Moving '../../../../Plague/Saved/RTS_BuildingMaster_BP593F679A4FD2407BD57CE4A507FFF955.tmp' to '../../../../Plague/Content/RTS/Blueprints/Buildings/RTS_BuildingMaster_BP.uasset'
+[2019.09.29-02.17.47:635][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Construction/ConstructionManager_BP" FILE="../../../../Plague/Content/RTS/Blueprints/Construction/ConstructionManager_BP.uasset" SILENT=true
+[2019.09.29-02.17.47:661][987]LogSavePackage: Moving '../../../../Plague/Saved/ConstructionManager_BP7B7237DD494C5E2B7FF04CB5B95AD36A.tmp' to '../../../../Plague/Content/RTS/Blueprints/Construction/ConstructionManager_BP.uasset'
+[2019.09.29-02.17.49:584][214]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/RTS/HUDs/MainUI_HUD.MainUI_HUD
+[2019.09.29-02.17.49:773][214]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SyncInterval 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1821
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1442
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000306B0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.09.29-02.18.08:534][841]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.09.29-02.18.08:534][841]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.09.29-02.18.08:534][841]LogD3D11RHI: [Aftermath] GDynamicRHI=000001AE4909A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.09.29-02.18.08:549][841]LogWindows: Windows GetLastError: The operation completed successfully. (0)
